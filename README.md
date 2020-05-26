@@ -125,7 +125,7 @@ scheduled event. Below are detailed instructions on this process:
             advanced time or execution related changes can be made to
             this task manually after it has been created***)** 
 
-> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Task Scheduler.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/TaskUI.jpg)
+> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/TaskScheduler.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/TaskUI.jpg)
 >
 > 5\. Test the functionality. For this you have two options: 
 
